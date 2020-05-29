@@ -1,0 +1,4 @@
+[24-Jan-2020 07:17:54 America/New_York] PHP Warning:  require(../conexion.php): failed to open stream: No such file or directory in /home/shhhc32/public_html/yisus/Login/php/in.php on line 2
+[24-Jan-2020 07:17:54 America/New_York] PHP Warning:  require(../conexion.php): failed to open stream: No such file or directory in /home/shhhc32/public_html/yisus/Login/php/in.php on line 2
+[24-Jan-2020 07:17:54 America/New_York] PHP Fatal error:  require(): Failed opening required '../conexion.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shhhc32/public_html/yisus/Login/php/in.php on line 2
+[24-Jan-2020 07:18:43 America/New_York] PHP Fatal error:  Call to undefined function fetch() in /home/shhhc32/public_html/yisus/Login/php/in.php on line 12
